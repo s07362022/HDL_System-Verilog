@@ -1,0 +1,57 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/nuck/HDL/lab1
+vALU
+Z0 !s110 1709713170
+!i10b 1
+!s100 8HY3eN7P<CR]oXQO433[N2
+IDzkzl1ed3L2UkLe1a4fF_3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dF:/nuck/HDL/Lab2/StudentID_Lab2/src
+w1709713169
+8F:/nuck/HDL/Lab2/StudentID_Lab2/src/ALU.v
+FF:/nuck/HDL/Lab2/StudentID_Lab2/src/ALU.v
+L0 2
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1709713170.000000
+!s107 F:/nuck/HDL/Lab2/StudentID_Lab2/src/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/nuck/HDL/Lab2/StudentID_Lab2/src/ALU.v|
+!i113 1
+o-work work
+Z5 tCvgOpt 0
+n@a@l@u
+vtb_ALU
+DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+R0
+!i10b 1
+!s100 RLC<im0@UIfF2K0eWmAN=3
+IXHE`1ECIC7cW<jPcz27RL2
+R1
+!s105 tb_ALU_sv_unit
+S1
+R2
+w1709710828
+8F:/nuck/HDL/Lab2/StudentID_Lab2/src/tb_ALU.sv
+FF:/nuck/HDL/Lab2/StudentID_Lab2/src/tb_ALU.sv
+L0 5
+R3
+r1
+!s85 0
+31
+R4
+!s107 F:/nuck/HDL/Lab2/StudentID_Lab2/src/tb_ALU.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|F:/nuck/HDL/Lab2/StudentID_Lab2/src/tb_ALU.sv|
+!i113 1
+o-work work -sv
+R5
+ntb_@a@l@u
